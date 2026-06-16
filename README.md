@@ -14,7 +14,6 @@ Akademická výzva / Academic Peer Review
 Míč je na straně akademické obce – prostor pro odbornou diskuzi a případné vyvrácení je
 otevřen. / The ball is in the court of the academic community – the space for professional
 discourse and peer review is open.
-Oficiální odkaz / Official Repository: https://github.com/stephenehawkingecechomoravk-
-lang/Universal-Order-W3-Official
+Oficiální odkaz / Official Repository: 
 HASH:
 ed1a75ab37ed4824df0123061f0d6d12cbb7a18aabc2cafdfe6f490a02f27382
