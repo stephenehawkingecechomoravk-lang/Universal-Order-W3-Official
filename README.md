@@ -1,2 +1,3 @@
-O
-Universal-Order-W3: Průkopnická definice systému (W3 ≃ nt²). Hrdě napsáno Čecho-MORAVÁK,programátor(sanouk bez Akademii vzdelání) žijícím s ALS, inspirováno bojem Stephena Hawkinga. Věnováno ALSA, zs (60% licenční poplatek) 
+ Universal-Order-W3O projektu:Průkopnická definice systému ((W3 ≃ nt²). Hrdě vytvořeno českým a moravským programátorem (samoukem bez akademického vzdělávání žijícím s ALS) inspirováno životem (bojem) Stephena Hawkinga.Filantropický závazek:Věnováno ALSA, z.s. (60 % veškerých licenčních poplatků).
+
+ Universal-Order-W3About the project:A pioneering definition of the system (W3 ≃ nt²). Proudly created by a Czech-Moravian programmer (a self-taught developer without academic education living with ALS) inspired by the life (struggle) of Stephen Hawking.Philanthropic commitment:Dedicated to ALSA, z.s. (60% of all licensing fees).
